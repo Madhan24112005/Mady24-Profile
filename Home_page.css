@@ -1,0 +1,135 @@
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Home_page_Class {
+	position: absolute;
+	width: 1540px;
+	height: 930px;
+	background: linear-gradient(148.8deg, rgba(22,22,24,1) 0%, rgba(0,0,0,0.71) 100%);
+	overflow: hidden;
+	--web-view-name: Home page;
+	--web-view-id: Home_page;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-refresh-for-changes: true;
+	--web-show-navigation-controls: true;
+	--web-enable-deep-linking: true;
+}
+.Group_2_Class {
+	position: absolute;
+	width: 336px;
+	height: 58px;
+	left: 24.5px;
+	top: 12px;
+	overflow: visible;
+}
+.lonelylooserboy_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 337px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Berlin Sans FB;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 53px;
+	color: rgba(255,255,255,1);
+	text-transform: lowercase;
+}
+.Group_8_Class {
+	position: absolute;
+	width: 54px;
+	height: 23px;
+	left: 1181.5px;
+	top: 18px;
+	overflow: visible;
+}
+.Home_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Berlin Sans FB;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(255,255,255,1);
+}
+.Group_12_Class {
+	position: absolute;
+	width: 55px;
+	height: 23px;
+	left: 1307.5px;
+	top: 18px;
+	overflow: visible;
+}
+.About_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 56px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Berlin Sans FB;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(255,255,255,1);
+}
+.Mail_Me_Class {
+	left: 1434.5px;
+	top: 18px;
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Berlin Sans FB;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(255,255,255,1);
+}
+.Group_6_Class {
+	position: absolute;
+	width: 395px;
+	height: 72px;
+	left: 320.5px;
+	top: 465px;
+	overflow: visible;
+}
+.I_enjoy_crafting_user-friendly_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 396px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(255,255,255,0.949);
+}
+.Adobe_Express_20240916_2123030_Class {
+	position: absolute;
+	width: 718px;
+	height: 718px;
+	left: 822px;
+	top: 178px;
+	overflow: visible;
+}
